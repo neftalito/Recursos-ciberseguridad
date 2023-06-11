@@ -1,4 +1,4 @@
-Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad)
+Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad).
 
 ## Utilidades
 - [ExplainShell](https://www.explainshell.com/) - Explicaciones de comandos de consola.
