@@ -80,6 +80,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [Windows Exploit Suggester](https://github.com/bitsadmin/wesng) - Provee una lista de vulnerabilidades que puede tener el sistema.
 	- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS) -Busca posibles caminos para escalar privilegios en sistemas Windows.
 	- [Privesc Check](https://github.com/itm4n/PrivescCheck ) - Script para escalar privilegios.
+	- [LOLBAS](https://lolbas-project.github.io/) - GTFOBins pero para Windows.
 ---
 
 ## Linux
@@ -130,6 +131,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [NotOnlyOwner](https://www.notonlyowner.com/learn/intro-seguridad-hacking-ethereum/) - Introducción a la seguridad y hacking en Ethereum.
 	- [Learn web3 / smart-contract Hacking in 2023 step by step guide](https://medium.com/coinmonks/learn-web3-smart-contract-hacking-in-2023-step-by-step-guide-dbc4f7a16902) - Guía para hackear smart contracts.
 	- [Immunefi Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library) - Información y tutoriales/herramientas sobre seguridad en web3
+	- [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs) - Lista de juegos, CTFs, writeups, etc.
 
 ---
 # Práctica
@@ -162,7 +164,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Crackmes](https://crackmes.one/) - Retos de ingeniería inversa.
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Retos de Web3.
 - [Capture The Ether](https://capturetheether.com/) - Retos de Web3.
-- [Damn vulnerable defi](https://www.damnvulnerabledefi.xyz/) - Retos de Web3.
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Retos de Web3.
+- [DefiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - Retos de Web3
 
 ## Programas de bug bounty
 - [Hacker101](https://www.hacker101.com/)
@@ -190,3 +193,6 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Google imágenes no consentidas](https://support.google.com/websearch/answer/6302812?hl=es) - Solicitar la retirada de imágenes explicitas o intimas no consentidas en Google.
 - [Departamento de seguridad nacional](https://www.dhs.gov/report-suspicious-activity) - Reportar ataques de terrorismo o actividad sospechosa.
 - [AbuseIP](https://www.abuseipdb.com/) - Denunciar una IP de abuso (intentos de ataque).
+## Ayuda
+- [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Suba una nota de rescate o una muestra de archivo cifrado para identificar el ransomware que te infectó.
+- [No More Ransom](https://www.nomoreransom.org/) - Obtén una herramienta de descifrado para el ransomware que te infectó.
