@@ -17,6 +17,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Wigle](https://wigle.net/) - Lista de más de un millón de redes wifi en todo el mundo.
 - [Censys](https://censys.io/) - Búsqueda de IPS y servicios.
 - [Shodan](https://www.shodan.io/) - Búsqueda de IPs y servicios. (Mi favorito)
+- [FOFA](https://en.fofa.info/) - Como Shodan pero chino (Literalmente chino).
+- [Criminal IP](https://www.criminalip.io/en) - Búsqueda de IPs y servicios.
 - [ZoomEye](https://www.zoomeye.org/) - Búsqueda de IPs y servicios.
 - [GreyNoise](https://viz.greynoise.io/) - Búsqueda de IPs y servicios.
 - [Onyphe](https://www.onyphe.io/) - Búsqueda de IPs y servicios.
@@ -30,28 +32,35 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [HaveIBeenPwned](https://haveibeenpwned.com/) - Chequear si un Email ha sido comprometido.
 - [Intelligence X](https://intelx.io/) - Búsqueda de datos y contraseñas filtradas.
 - [Canary Tokens](https://canarytokens.org/) - Honeypots.
-- [XSS Payloads](http://www.xss-payloads.com/) - Está caída pareciera
+- [XSS Payloads](http://www.xss-payloads.com/) - Está caída pareciera.
 - [Poastal](https://github.com/jakecreps/poastal) - Email Osint.
 - [PentestMonkey](https://pentestmonkey.net/) - Lista de herramientas, scripts e información.
-- [C2 panels](https://tracker.viriback.com/) - Paneles de control de malware
+- [C2 panels](https://tracker.viriback.com/) - Paneles de control de malware.
 - [C2 panels 2](https://threatfox.abuse.ch/browse/)
-- [Dedigger](https://www.dedigger.com/index.html#gsc.tab=0) - Buscar en Google Drive archivos públicos
-- [Apkwash](https://github.com/jbreed/apkwash) - Evasión de antivirus para APKs generadas con msfvenom
+- [Dedigger](https://www.dedigger.com/index.html#gsc.tab=0) - Buscar en Google Drive archivos públicos.
+- [Apkwash](https://github.com/jbreed/apkwash) - Evasión de antivirus para APKs generadas con msfvenom.
 - [AbuseIP](https://www.abuseipdb.com/) - Chequear una IP o denunciar una.
-- [DotGit](https://github.com/davtur19/DotGit) - Extensión para automatizar la búsqueda del directorio .git en el navegador
+- [DotGit](https://github.com/davtur19/DotGit) - Extensión para automatizar la búsqueda del directorio .git en el navegador.
 - [HackTools](https://github.com/LasCC/Hack-Tools) - Extensión para ayudarte con pentesting.
-- [Urlscan](https://urlscan.io/) - Escanea una URL para ver qué puede contener
-- [AnyRun](https://any.run/) - Ejecuta cualquier aplicación en el navegador con un sistema virtualizado
-- [VirustTotal](https://www.virustotal.com/gui/) - Analiza aplicaciones y archivos con más de 70 antivirus
-- [Malwarewatch](https://malwarewatch.org/) - Repositorio de malware y software útil
-- [VxUnderground](https://www.vx-underground.org/) - Repositorio de malware
-- [Privacytests](https://privacytests.org/) - Chequea los navegadores para ver cuál es más seguro
-- [Mefiltraron](https://mefiltraron.com/) - Busca si tus datos fueron filtrados con tu correo electrónico
-- [H8mail](https://github.com/khast3x/h8mail) - OSINT de correos electrónicos
-- [Breachdirectory](https://breachdirectory.org/) - Busca contraseñas expuestas de un usuario
-- [Bug Bounty Guide](https://bugbountyguide.org/) - Tips, recursos, etc. para encontrar bugs y vulnerabilidades
-- [GuerrillaMail](https://www.guerrillamail.com/es/) - Envía mails "anónimamente"
-- [Temp mail](https://temp-mail.org/es/) - Genera mails temporales (Muchos están bloqueados para su uso en redes sociales)
+- [Urlscan](https://urlscan.io/) - Escanea una URL para ver qué puede contener.
+- [AnyRun](https://any.run/) - Ejecuta cualquier aplicación en el navegador con un sistema virtualizado.
+- [VirustTotal](https://www.virustotal.com/gui/) - Analiza aplicaciones y archivos con más de 70 antivirus.
+- [Malwarewatch](https://malwarewatch.org/) - Repositorio de malware y software útil.
+- [VxUnderground](https://www.vx-underground.org/) - Repositorio de malware.
+- [Privacytests](https://privacytests.org/) - Chequea los navegadores para ver cuál es más seguro.
+- [Mefiltraron](https://mefiltraron.com/) - Busca si tus datos fueron filtrados con tu correo electrónico. (Poco exacto)
+- [H8mail](https://github.com/khast3x/h8mail) - OSINT de correos electrónicos.
+- [Breachdirectory](https://breachdirectory.org/) - Busca contraseñas expuestas de un usuario.
+- [Bug Bounty Guide](https://bugbountyguide.org/) - Tips, recursos, etc. para encontrar bugs y vulnerabilidades.
+- [GuerrillaMail](https://www.guerrillamail.com/es/) - Envía mails "anónimamente".
+- [Temp mail](https://temp-mail.org/es/) - Genera mails temporales (Muchos están bloqueados para su uso en redes sociales).
+- [Lizem](https://lyzem.com/) - Busca en telegram por palabras clave.
+- [LibGen](https://libgen.is/) - Busca libros o artículos.
+- [Selx](https://selx.im/) - Bases de datos filtradas.
+- ## Osint
+	- [Mi Nosis](https://www.nosis.com/es/informes-comerciales/minosis) - Busca informes crediticios por Nombre/DNI (También conseguís el DNI por el nombre).
+	- [Daeas](https://www.dateas.com/es/argentina) - Busca cualquier persona por nombre, DNI, CUIT o CUIL.
+
 
 
 ---
@@ -59,9 +68,10 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - ### General
 - [Sectools](https://sectools.org/) - Top 125 Aplicaciones de seguridad de la mano de los creadores de Nmap.
 - [Red Teaming Toolkit](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit/) - Lista de herramientas comerciales y de código abierto para ayudar en operaciones Red Team.
+- [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) - Lista de herramientas usadas para hacking web.
 - [XssHunter Express](https://github.com/mandatoryprogrammer/xsshunter-express) - Ayuda para conseguir ataques de Cross Site Scripting y te muestra si los exploits funcionaron.
 - [Sherlock Project](https://github.com/sherlock-project/sherlock) - OSINT para usuarios en múltiples páginas.
-- [GitTools](https://github.com/internetwache/GitTools) - Extracción de directorios .git
+- [GitTools](https://github.com/internetwache/GitTools) - Extracción de directorios .git.
 - [Ghauri](https://github.com/r0oth3x49/ghauri) - Buena alternativa a sqlmap.
 - ### Web3
 	- [Mythril](https://github.com/ConsenSys/mythril) - Herramienta de análisis para smart contracts.
@@ -111,6 +121,10 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 
 ---
 ## Cursos
+- ## Web Security
+	- [Invicti Learn](https://www.invicti.com/learn/) - Cursos para vulnerabilidades web y cómo prevenirlas
+- ## Linux
+	- [Linux Journey](https://linuxjourney.com/) - Aprende Linux.
 - ## CTFs
 	- [Trail Of Bits](https://trailofbits.github.io/ctf/) - Writeups de CTFs, explotación de binarios, seguridad forense, auditar sistemas.
 - ### Explotación de binarios
@@ -132,6 +146,9 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [Learn web3 / smart-contract Hacking in 2023 step by step guide](https://medium.com/coinmonks/learn-web3-smart-contract-hacking-in-2023-step-by-step-guide-dbc4f7a16902) - Guía para hackear smart contracts.
 	- [Immunefi Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library) - Información y tutoriales/herramientas sobre seguridad en web3
 	- [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs) - Lista de juegos, CTFs, writeups, etc.
+- ## Learning paths
+	- [Web security learning path](https://portswigger.net/web-security/learning-path) - Mini curso de PortSwigger explicando vulnerabilidades web, con laboratorios para probarlas.
+	- [Learning Paths TryHackMe](https://tryhackme.com/paths) -  "Cursos" de TryHackMe para aprender distintas vulnerabilidades y empezar en ciberseguridad.
 
 ---
 # Práctica
@@ -142,6 +159,11 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Infosecmachines](https://infosecmachines.io/) - Writeups HackTheBox/VulnHub/Portswigger.
 - [Infosecmachines Excel](https://docs.google.com/spreadsheets/u/0/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/htmlview) - Excel con videos para HackTheBox/VulnHub/Portswigger.
 - [Snowscan](https://snowscan.io/) - Writeups de HackTheBox.
+
+## Cheat Sheets
+- [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Lista de payloads y bypasses para distintas vulnerabilidades web.
+- [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/Glossary.html) - Lista de vulnerabilidades web y cómo prevenirlas.
+- [Invicti SQL Injection Cheat Sheet](https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/) - Lista de payloads para SQLI
 
 ## Máquinas vulnerables / CTFs
 - [HackTheBox](https://www.hackthebox.com/) - VPN con máquinas vulnerables en la red. (De los más avanzados y realistas)
@@ -181,6 +203,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Cracked.](https://cracked.io/)
 - [Nulled](https://www.nulled.to/index.php)
 - [Exposed](https://exposed.vc/)(No confío en este)
+- [Black Hat World](https://www.blackhatworld.com/)
 ## Denuncias
 - [AntiphishingLA](https://www.antiphishing.la/es-ar/denunciar/) - Denunciar páginas de phishing.
 - [Phish Report](https://phish.report/) - Reportar links de phishing.
