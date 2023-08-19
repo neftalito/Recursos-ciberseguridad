@@ -207,7 +207,6 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 ### Dark forums
 - [Cracked.](https://cracked.io/)
 - [Nulled](https://www.nulled.to/index.php)
-- [Exposed](https://exposed.vc/)(No confío en este)
 - [Black Hat World](https://www.blackhatworld.com/)
 ## Denuncias
 - [AntiphishingLA](https://www.antiphishing.la/es-ar/denunciar/) - Denunciar páginas de phishing.
