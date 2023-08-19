@@ -91,6 +91,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS) -Busca posibles caminos para escalar privilegios en sistemas Windows.
 	- [Privesc Check](https://github.com/itm4n/PrivescCheck ) - Script para escalar privilegios.
 	- [LOLBAS](https://lolbas-project.github.io/) - GTFOBins pero para Windows.
+	- [WADComs](https://wadcoms.github.io/) - Una lista de herramientas y sus comandos (Inspirado en LOLBAS y GTFOBins).
 ---
 
 ## Linux
@@ -111,6 +112,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Ethical Hacking Books](https://drive.google.com/drive/folders/1xWKf39BivcIuAUYUk3qwoqnRyquRKmG7) - PDFs de los libros de hacking más comunes y útiles.
 - [Awesome Security Ebooks](https://github.com/sbilly/awesome-security#ebooks) - Lista de libros.
 - [Repositorio elhacker](https://ns2.elhacker.net/descargas/) - Libros, tutoriales, isos, etc.
+- [Repositorio AlbusSec](https://github.com/AlbusSec/Penetration-List/tree/main/Study-Resources) - Libros y payloads
 
 ## Exámenes
 - [Total OSCP guide](https://sushant747.gitbooks.io/total-oscp-guide/content/) - Guía de estudio para el OSCP.
@@ -129,6 +131,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [Trail Of Bits](https://trailofbits.github.io/ctf/) - Writeups de CTFs, explotación de binarios, seguridad forense, auditar sistemas.
 - ### Explotación de binarios
 	- [Nightmare](https://guyinatuxedo.github.io/) - Introducción a la explotación de binarios e ingeniería inversa.
+	- [How2Heap](https://github.com/shellphish/how2heap) - Repositorio para aprender técnicas de heap exploitation.
 - ### Análisis
 	- [Shell storm](https://shell-storm.org/) - Blog con datos sobre técnicas de deobfuscación, análisis binario, kernel.
 - ### Python
@@ -199,6 +202,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 # Otros
 ## Listas
 - [Other Awesome Lists](https://github.com/sbilly/awesome-security#other-awesome-lists)
+- [Formación Ciberseguridad](https://start.me/p/Nx2YwX/formacion_ciberseguridad) - Repositorio público de recursos de formación en ciberseguridad (Gratis y de pago).
+- [Osint](https://start.me/p/wMkNoN/osint-fuentes-abiertas-ciberinteligencia)
 ### Dark forums
 - [Cracked.](https://cracked.io/)
 - [Nulled](https://www.nulled.to/index.php)
@@ -207,7 +212,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 ## Denuncias
 - [AntiphishingLA](https://www.antiphishing.la/es-ar/denunciar/) - Denunciar páginas de phishing.
 - [Phish Report](https://phish.report/) - Reportar links de phishing.
-- [Denunciar delitos informaticos](https://www.argentina.gob.ar/servicio/denunciar-un-delito-informatico) 
+- [Denunciar delitos informáticos](https://www.argentina.gob.ar/servicio/denunciar-un-delito-informatico) 
 - [Nollame](https://www.argentina.gob.ar/servicio/inscribir-una-linea-telefonica-en-el-registro-nacional-no-llame) - Registre su número para evitar que tenga llamadas publicitarias. [Link directo](https://nollame.aaip.gob.ar/).
 - [Safebrowsing Phishing](https://safebrowsing.google.com/safebrowsing/report_phish/?rd=1&hl=es) - Denunciar una página de phishing a Google.
 - [Safebrowsing Malware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=es) - Denunciar una página con malware a Google.
