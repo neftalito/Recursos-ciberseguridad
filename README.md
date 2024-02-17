@@ -70,9 +70,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Bug Bounty Guide](https://bugbountyguide.org/) - Tips, recursos, etc. para encontrar bugs y vulnerabilidades.
 - [GuerrillaMail](https://www.guerrillamail.com/es/) - Envía mails "anónimamente".
 - [Temp mail](https://temp-mail.org/es/) - Genera mails temporales (Muchos están bloqueados para su uso en redes sociales).
-- [Lizem](https://lyzem.com/) - Busca en telegram por palabras clave.
+- [Lyzem](https://lyzem.com/) - Busca en telegram por palabras clave.
 - [LibGen](https://libgen.is/) - Busca libros o artículos.
-- [Selx](https://selx.im/) - Bases de datos filtradas.
 - [Cached View](https://cachedview.nl/) - Ver página en caché.
 - [Wayback Machine](https://cachedview.nl/) - Ver versiones antiguas de páginas.
 - [MITMonster](https://github.com/cursedpkt/MITMonster) - Explicaciones de distintos tipos de ataques de Man In The Middle.
@@ -82,6 +81,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [MHDDoS](https://github.com/MatrixTM/MHDDoS) - Herramienta para ataques DDoS.
 - [Free Media Heck Yeah](https://fmhy.pages.dev/)  Colección de cosas gratis en internet.
 - [Kapersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool) - Antivirus recomendado.
+- [JustDeleteMe](https://justdeleteme.xyz/es) - Busca cómo eliminar tus datos de una página.
+- [JustGetMyData](https://justgetmydata.com/) - Solicita tu información en distintas páginas.
 - ## Osint
 	- [Mi Nosis](https://www.nosis.com/es/informes-comerciales/minosis) - Busca informes crediticios por Nombre/DNI (También conseguís el DNI por el nombre).
 	- [Dateas](https://www.dateas.com/es/argentina) - Busca cualquier persona por nombre, DNI, CUIT o CUIL.
@@ -143,10 +144,12 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 ---
 
 ## Android
+- [Genymotion](https://www.genymotion.com/) - Emulador de android.
 ## Aplicaciones de seguridad para Android
 - [L4bsForAndroid](https://github.com/Snifer/L4bsForAndroid) - Repositorio de aplicaciones de Seguridad para Android
 - [Arcai](https://arcai.com/) - Aplicación para hacer ARP Spoof y bloquear personas del WiFi.
 - [Fing](https://www.fing.com/) - Escáner de red.
+- [Frida](https://frida.re/) - Herramienta para ingeniería inversa.
 ### CTFs
 - [HpAndro](https://ctf.hpandro.raviramesh.info/) - CTF de la aplicación de Android de HpAndro con vulnerabilidades fáciles([Instalar App](https://github.com/RavikumarRamesh/hpAndro1337)).
 - [Awesome Mobile CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - Repositorio con información sobre seguridad en dispositivos móviles.
@@ -255,6 +258,10 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Formación Ciberseguridad](https://start.me/p/Nx2YwX/formacion_ciberseguridad) - Repositorio público de recursos de formación en ciberseguridad (Gratis y de pago).
 - [Osint](https://start.me/p/wMkNoN/osint-fuentes-abiertas-ciberinteligencia)
 - [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - Lista de links de piratería.
+- [Awesome Reversing](https://github.com/HACKE-RC/awesome-reversing) - Información sobre Reverse Engineering.
+- [Awesome GPT Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - Lista de agentes GPT para ciberseguridad.
+- [Crypto Cat CTF](https://github.com/Crypto-Cat/CTF) - Colección de información sobre ciberseguridad.
+- [OSINT Discord Resources](https://github.com/Dutchosintguy/OSINT-Discord-resources) - Lista de aplicaciones para hacer OSINT en discord.
 ### Dark forums
 - [Cracked.](https://cracked.io/)
 - [Nulled](https://www.nulled.to/index.php)
@@ -264,7 +271,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Phish Report](https://phish.report/) - Denunciar páginas de phishing.
 - [Phish Tank](https://phishtank.org/) - Denunciar páginas de phishing.
 - [Denunciar delitos informáticos](https://www.argentina.gob.ar/servicio/denunciar-un-delito-informatico) 
-- [Nollame](https://www.argentina.gob.ar/servicio/inscribir-una-linea-telefonica-en-el-registro-nacional-no-llame) - Registre su número para evitar que tenga llamadas publicitarias. [Link directo](https://nollame.aaip.gob.ar/).
+- [Nollame](https://www.argentina.gob.ar/servicio/inscribir-una-linea-telefonica-en-el-registro-nacional-no-llame) - Registre su número para evitar que lleguen llamadas publicitarias. [Link directo](https://nollame.aaip.gob.ar/).
+- [Lista Robinson](https://www.listarobinson.es/) - Registre su número para evitar que lleguen llamadas publicitarias.
 - [Safebrowsing Phishing](https://safebrowsing.google.com/safebrowsing/report_phish/?rd=1&hl=es) - Denunciar una página de phishing a Google.
 - [Safebrowsing Malware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=es) - Denunciar una página con malware a Google.
 - [IC3 Delitos](https://www.ic3.gov/) - Reportar delitos informáticos al FBI.
