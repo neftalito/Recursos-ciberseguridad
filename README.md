@@ -1,5 +1,19 @@
 Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad).
 
+# Índice
+- [Utilidades](#utilidades)
+- [Aplicaciones](#aplicaciones)
+- [VPNs seguros y con anonimidad](#vpns-seguros-y-con-anonimidad)
+- [Windows](#windows)
+- [Linux](#linux)
+- [Android](#android)
+- [Aplicaciones de seguridad para Android](#aplicaciones-de-seguridad-para-android)
+	- [CTFs](#ctfs)
+- [Libros](#libros)
+- [Exámenes](#ex%C3%A1menes)
+- [Canales de YouTube](#canales-de-youtube)
+- [Cursos](#cursos)
+---
 ## Utilidades
 - [ExplainShell](https://www.explainshell.com/) - Explicaciones de comandos de consola.
 - [ShellCheck](https://www.shellcheck.net/) - Encuentra bugs en tus scripts de bash.
@@ -27,8 +41,10 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [MobSFLive](https://mobsf.live/) - Análisis de APKs. 
 - [Browserling](https://www.browserling.com/browser-sandbox) - Sandbox en el navegador para probar links y aplicaciones.
 - [Tria.ge](https://tria.ge/) - Analizar muestras de malware.
+- [MalAPI](https://malapi.io/) - Listado de funciones utilizadas por malware.
 - [Wappalyzer](https://www.wappalyzer.com/) - Identifica tecnologías en sitios web.
 - [Leakpeek](https://leakpeek.com/)- Búsqueda de contraseñas.
+- [LeakCheck](https://leakcheck.io/) - Busca de dónde ocurrieron las filtraciones.
 - [HaveIBeenPwned](https://haveibeenpwned.com/) - Chequear si un Email ha sido comprometido.
 - [Intelligence X](https://intelx.io/) - Búsqueda de datos y contraseñas filtradas.
 - [Canary Tokens](https://canarytokens.org/) - Honeypots.
@@ -57,29 +73,51 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [Lizem](https://lyzem.com/) - Busca en telegram por palabras clave.
 - [LibGen](https://libgen.is/) - Busca libros o artículos.
 - [Selx](https://selx.im/) - Bases de datos filtradas.
+- [Cached View](https://cachedview.nl/) - Ver página en caché.
+- [Wayback Machine](https://cachedview.nl/) - Ver versiones antiguas de páginas.
+- [MITMonster](https://github.com/cursedpkt/MITMonster) - Explicaciones de distintos tipos de ataques de Man In The Middle.
+- [Nmap Formatter](https://github.com/vdjagilev/nmap-formatter) - Convertir resultados de NMAP a otros formatos o gráficos.
+- [CatPhish](https://github.com/ring0lab/catphish) - Genera dominios similares para ataques de phishing.
+- [BLE Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - Ataque Bluetooth para spam de beacons.
+- [MHDDoS](https://github.com/MatrixTM/MHDDoS) - Herramienta para ataques DDoS.
+- [Free Media Heck Yeah](https://fmhy.pages.dev/)  Colección de cosas gratis en internet.
+- [Kapersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool) - Antivirus recomendado.
 - ## Osint
 	- [Mi Nosis](https://www.nosis.com/es/informes-comerciales/minosis) - Busca informes crediticios por Nombre/DNI (También conseguís el DNI por el nombre).
-	- [Daeas](https://www.dateas.com/es/argentina) - Busca cualquier persona por nombre, DNI, CUIT o CUIL.
-
-
+	- [Dateas](https://www.dateas.com/es/argentina) - Busca cualquier persona por nombre, DNI, CUIT o CUIL.
 
 ---
 ## Aplicaciones
 - ### General
 - [Sectools](https://sectools.org/) - Top 125 Aplicaciones de seguridad de la mano de los creadores de Nmap.
+- [RustScan](https://github.com/RustScan/RustScan) - Escaner de puertos moderno. (Alternativa rápida de Nmap).
 - [Red Teaming Toolkit](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit/) - Lista de herramientas comerciales y de código abierto para ayudar en operaciones Red Team.
 - [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) - Lista de herramientas usadas para hacking web.
 - [XssHunter Express](https://github.com/mandatoryprogrammer/xsshunter-express) - Ayuda para conseguir ataques de Cross Site Scripting y te muestra si los exploits funcionaron.
 - [Sherlock Project](https://github.com/sherlock-project/sherlock) - OSINT para usuarios en múltiples páginas.
 - [GitTools](https://github.com/internetwache/GitTools) - Extracción de directorios .git.
 - [Ghauri](https://github.com/r0oth3x49/ghauri) - Buena alternativa a sqlmap.
+- [Simple PHP WebShell](https://github.com/artyuum/simple-php-web-shell) - Webshell en PHP para RCE.
+- [HTTPX](https://github.com/projectdiscovery/httpx) - Herramienta para hacer multiples peticiones de red.
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - Herramienta para enumeración pasiva de subdominios.
+- [CVEMap](https://github.com/projectdiscovery/cvemap) - Herramienta para buscar en bases de datos de vulnerabilidades.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Herramienta para escanear vulnerabilidades.
+- [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates) - Lista de plantillas de nuclei para encontrar vulnerabilidades.
 - ### Web3
 	- [Mythril](https://github.com/ConsenSys/mythril) - Herramienta de análisis para smart contracts.
 	- [DappTools](https://github.com/dapphub/dapptools) - Herramienta de CLI para Ethereum.
 	- [Surya](https://github.com/ConsenSys/surya) - Herramienta para obtener información de un smart contract.
+	- [Foundry](https://getfoundry.sh/) - Herramienta de CLI para Ethereum. [Click para más información.](https://book.getfoundry.sh/)
+## VPNs seguros y con anonimidad
+- [Mullvad](https://mullvad.net/es) - Para paranoicos.
+- [Private Internet Access](https://www.privateinternetaccess.com/) - El más popular.
+- [IVPN](https://www.ivpn.net/)  - Alternativa más restringida a Mullvad.
+- [NordVPN](https://nordvpn.com/es/) - Con mejor puntuación.
 
 ---
 ## Windows
+- ## Activación
+	- [MassGrave](https://github.com/projectdiscovery/nuclei) - Métodos de activación de Windows y Office.
 - ### Extraer contraseñas
 	- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Usuarios.
 	- [LaZagne](https://github.com/AlessandroZ/LaZagne) - Navegadores.
@@ -92,8 +130,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [Privesc Check](https://github.com/itm4n/PrivescCheck ) - Script para escalar privilegios.
 	- [LOLBAS](https://lolbas-project.github.io/) - GTFOBins pero para Windows.
 	- [WADComs](https://wadcoms.github.io/) - Una lista de herramientas y sus comandos (Inspirado en LOLBAS y GTFOBins).
----
 
+---
 ## Linux
 - ### Escalada de privilegios
 	- [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) - Busca posibles caminos para escalar privilegios en sistemas Linux/Unix/MacOS.
@@ -101,11 +139,18 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [Linux Priv Checker](https://github.com/sleventyeleven/linuxprivchecker) - Busca posibles caminos para escalar privilegios en sistemas Linux/Unix/MacOS.
 	- [LinEnum](https://github.com/rebootuser/LinEnum) - Mi favorito junto a LinPEAS.
 	- [PSpy](https://github.com/DominicBreuker/pspy) - Ver procesos, cron jobs y comandos de otros usuarios en tiempo real.
+
 ---
 
 ## Android
+## Aplicaciones de seguridad para Android
+- [L4bsForAndroid](https://github.com/Snifer/L4bsForAndroid) - Repositorio de aplicaciones de Seguridad para Android
+- [Arcai](https://arcai.com/) - Aplicación para hacer ARP Spoof y bloquear personas del WiFi.
+- [Fing](https://www.fing.com/) - Escáner de red.
 ### CTFs
 - [HpAndro](https://ctf.hpandro.raviramesh.info/) - CTF de la aplicación de Android de HpAndro con vulnerabilidades fáciles([Instalar App](https://github.com/RavikumarRamesh/hpAndro1337)).
+- [Awesome Mobile CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - Repositorio con información sobre seguridad en dispositivos móviles.
+
 ---
 
 ## Libros
@@ -136,6 +181,8 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 	- [Shell storm](https://shell-storm.org/) - Blog con datos sobre técnicas de deobfuscación, análisis binario, kernel.
 - ### Python
 	- [El libro de python](https://ellibrodepython.com/) - Curso de Python gratuito.
+- ## Kotlin 
+	- [Curso Kotlin](https://cursokotlin.com/) - Curso de Kotlin.
 - ### General
 	- [Fuzzysecurity](https://fuzzysecurity.com/tutorials.html) - Explotación de Windows, Linux, análisis de malware, RFID.
 	- [Hacksplaining](https://www.hacksplaining.com/) - Explicación de las vulnerabilidades más comunes en aplicaciones web.
@@ -159,6 +206,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 ## Writeups
 - [0xdeed](https://0xdeed.github.io/) - Writeups de HackTheBox.
 - [0xdf](https://0xdf.gitlab.io/) - Writeups para HackTheBox.
+- [https://pentester.land/writeups/](Pentester Land) - Writeups de vulnerabilidades de programas de Bug Bounty.
 - [Infosecmachines](https://infosecmachines.io/) - Writeups HackTheBox/VulnHub/Portswigger.
 - [Infosecmachines Excel](https://docs.google.com/spreadsheets/u/0/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/htmlview) - Excel con videos para HackTheBox/VulnHub/Portswigger.
 - [Snowscan](https://snowscan.io/) - Writeups de HackTheBox.
@@ -167,6 +215,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Lista de payloads y bypasses para distintas vulnerabilidades web.
 - [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/Glossary.html) - Lista de vulnerabilidades web y cómo prevenirlas.
 - [Invicti SQL Injection Cheat Sheet](https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/) - Lista de payloads para SQLI
+- [One Liner Collections](https://github.com/thecybertix/One-Liner-Collections) - Lista de comandos de una linea.
 
 ## Máquinas vulnerables / CTFs
 - [HackTheBox](https://www.hackthebox.com/) - VPN con máquinas vulnerables en la red. (De los más avanzados y realistas)
@@ -198,19 +247,22 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 
 # Exámenes
 - [TJNulls](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html) - Preparación OSCP.
+
 ---
 # Otros
 ## Listas
 - [Other Awesome Lists](https://github.com/sbilly/awesome-security#other-awesome-lists)
 - [Formación Ciberseguridad](https://start.me/p/Nx2YwX/formacion_ciberseguridad) - Repositorio público de recursos de formación en ciberseguridad (Gratis y de pago).
 - [Osint](https://start.me/p/wMkNoN/osint-fuentes-abiertas-ciberinteligencia)
+- [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - Lista de links de piratería.
 ### Dark forums
 - [Cracked.](https://cracked.io/)
 - [Nulled](https://www.nulled.to/index.php)
 - [Black Hat World](https://www.blackhatworld.com/)
 ## Denuncias
 - [AntiphishingLA](https://www.antiphishing.la/es-ar/denunciar/) - Denunciar páginas de phishing.
-- [Phish Report](https://phish.report/) - Reportar links de phishing.
+- [Phish Report](https://phish.report/) - Denunciar páginas de phishing.
+- [Phish Tank](https://phishtank.org/) - Denunciar páginas de phishing.
 - [Denunciar delitos informáticos](https://www.argentina.gob.ar/servicio/denunciar-un-delito-informatico) 
 - [Nollame](https://www.argentina.gob.ar/servicio/inscribir-una-linea-telefonica-en-el-registro-nacional-no-llame) - Registre su número para evitar que tenga llamadas publicitarias. [Link directo](https://nollame.aaip.gob.ar/).
 - [Safebrowsing Phishing](https://safebrowsing.google.com/safebrowsing/report_phish/?rd=1&hl=es) - Denunciar una página de phishing a Google.
@@ -218,6 +270,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [IC3 Delitos](https://www.ic3.gov/) - Reportar delitos informáticos al FBI.
 - [IC3 Ransomware](https://www.ic3.gov/Home/Ransomware) - Reportar un ataque de ransomware.
 - [Google imágenes no consentidas](https://support.google.com/websearch/answer/6302812?hl=es) - Solicitar la retirada de imágenes explicitas o intimas no consentidas en Google.
+- [Stop NCII](https://stopncii.org/)  - Denunciar amenazas de compartir imágenes íntimas.
 - [Departamento de seguridad nacional](https://www.dhs.gov/report-suspicious-activity) - Reportar ataques de terrorismo o actividad sospechosa.
 - [AbuseIP](https://www.abuseipdb.com/) - Denunciar una IP de abuso (intentos de ataque).
 ## Ayuda
