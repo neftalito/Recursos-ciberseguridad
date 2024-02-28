@@ -1,5 +1,4 @@
 Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad).
-
 # Índice
 - [Utilidades](#utilidades)
 - [Aplicaciones](#aplicaciones)
@@ -19,6 +18,7 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [ShellCheck](https://www.shellcheck.net/) - Encuentra bugs en tus scripts de bash.
 - [ctf-katana](https://github.com/JohnHammond/ctf-katana) - Lista de herramientas y comandos que pueden ayudar con desafíos de CTF.
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Lista de payloads y bypass de filtros para CTFs y Aplicaciones Web.
+- [InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings/) - Lista de payloads y bypass de filtros para Active Directory.
 - [Book HackTricks](https://book.hacktricks.xyz/) - Una lista enorme de técnicas, trucos y vulnerabilidades. También en [Español](https://book.hacktricks.xyz/v/es/welcome/readme).
 - [Cloud HackTricks](https://cloud.hacktricks.xyz/welcome/readme) - Lista de vulnerabilidades para explotar servicios en la nube.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Análisis de datos (Útil para Des/Encriptar).
@@ -104,6 +104,9 @@ Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recur
 - [CVEMap](https://github.com/projectdiscovery/cvemap) - Herramienta para buscar en bases de datos de vulnerabilidades.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Herramienta para escanear vulnerabilidades.
 - [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates) - Lista de plantillas de nuclei para encontrar vulnerabilidades.
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) 
+- [Nuclei Fuzzer](https://github.com/0xKayala/NucleiFuzzer)
+- [Ferox Buster](https://github.com/epi052/feroxbuster) - Escáner de recursos recursivo.
 - ### Web3
 	- [Mythril](https://github.com/ConsenSys/mythril) - Herramienta de análisis para smart contracts.
 	- [DappTools](https://github.com/dapphub/dapptools) - Herramienta de CLI para Ethereum.
